@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Input a number and return the date that many days ago</description>
+        <internal_name>get_days_ago_date</internal_name>
+        <label_cache>[{"name":"{{action.days_ago}}","label":"action➛Days ago","type":"action","ref":""}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Days Ago Date</name>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-05 02:49:50</sys_created_on>
+        <sys_id>58da6a9adb713300b97785184b9619f8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Get Days Ago Date</sys_name>
+        <sys_package display_value="Needit Spoke" source="x_330587_needit_sp">2ccb02d6db313300b97785184b96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit Spoke">2ccb02d6db313300b97785184b96190b</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_58da6a9adb713300b97785184b9619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-05 03:09:46</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=58da6a9adb713300b97785184b9619f8"/>
+    <sys_variable_value action="delete_multiple" query="document_key=58da6a9adb713300b97785184b9619f8"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>58da6a9adb713300b97785184b9619f8</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-05 03:09:46</sys_created_on>
+        <sys_id>586faa9edb713300b97785184b961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-05 03:09:46</sys_updated_on>
+        <value>new_date</value>
+        <variable display_value="">586faa9edb713300b97785184b96196a</variable>
+    </sys_variable_value>
+</record_update>
